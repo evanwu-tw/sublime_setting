@@ -1,72 +1,59 @@
 {
-	"binary_file_patterns":
-	[
-		"*.psd"
-	],
-	"close_windows_when_empty": true,
-	"color_scheme": "Packages/Dayle Rees Color Schemes/Lastnight.tmTheme",
-	"detect_indentation": false,
-	"disable_formatted_linebreak": true,
-	"drag_text": false,
-	"draw_minimap_border": true,
-	"draw_white_space": false,
-	"ensure_newline_at_eof_on_save": true,
-	"file_exclude_patterns":
-	[
-		"*.sassc",
-		"*.scssc",
-		"*.log",
-		"*.gem",
-		"*.gz",
-		"*.jpg",
-		"*.jpeg",
-		"*.png",
-		"*.gif",
-		"*.pdf",
-		"*.zip",
-		"*.DS_store",
-		"*.eot",
-		"*.svg",
-		"*.ttf",
-		"*.woff",
-		"*.xap"
-	],
-	"folder_exclude_patterns":
-	[
-		".sass-cache",
-		".git",
-		".hg"
-	],
-	"font_face": "source code pro light",
-	"font_options":
-	[
-		"subpixel_antialias"
-	],
-	"font_size": 15.0,
-	"hayaku_CSS_syntax_autoguess":
-	[
-		"selector {",
-		"  property: value;",
-		"}"
-	],
-	"highlight_line": true,
-	"ignored_packages":
-	[
-		"Vintage",
-		"Synchronized File Scrolling",
-		"Hayaku - tools for writing CSS faster"
-	],
-	"phoenix_color_blue": true,
-	"phoenix_sidebar_tree_large": true,
-	"phoenix_tabs_auto_width": true,
-	"remember_open_files": true,
-	"scroll_past_end": true,
-	"show_tab_close_buttons": true,
-	"tab_size": 2,
-	"theme": "Flatland.sublime-theme",
-	"translate_tabs_to_spaces": true,
-	"tree_animation_enabled": true,
-	"trim_trailing_white_space_on_save": true,
-	"use_tab_stops": true,
-	"word_wrap": false
+  "caret_style": "phase",
+  "color_scheme": "Packages/Theme - Spacegray/base16-eighties.dark.tmTheme",
+  "css_files":
+  [
+    ".css",
+    ".scss",
+    ".sass",
+    ".less"
+  ],
+  "detect_indentation": false,
+  "file_exclude_patterns":
+  [
+    "*.sassc",
+    "*.scssc",
+    "*.log",
+    "*.gem",
+    "*.gz",
+    "*.pdf",
+    "*.zip",
+    "*.DS_store",
+    "*.eot",
+    "*.ttf",
+    "*.woff",
+    "*.xap"
+  ],
+  "font_face": "Source Code Pro Light",
+  "font_options":
+  [
+    "subpixel_antialias"
+  ],
+  "font_size": 15.0,
+  "hayaku_CSS_syntax_autoguess":
+  [
+    "selector {",
+    "  property: value;",
+    "}"
+  ],
+  "highlight_line": true,
+  "ignored_packages":
+  [
+    "ConvertToUTF8",
+    "Hayaku - tools for writing CSS faster",
+    "CSScomb",
+    "Goto-CSS-Declaration",
+    "Vintage"
+  ],
+  "line_padding_bottom": 2,
+  "line_padding_top": 2,
+  "remember_open_files": true,
+  "scroll_past_end": true,
+  "show_tab_close_buttons": true,
+  "tab_size": 2,
+  "theme": "Spacegray Eighties.sublime-theme",
+  "translate_tabs_to_spaces": true,
+  "bold_folder_labels": true,
+  "fade_fold_buttons": false,
+  "word_wrap": false
 }
