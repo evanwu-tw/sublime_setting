@@ -1,6 +1,7 @@
 {
+  "bold_folder_labels": true,
   "caret_style": "phase",
-  "color_scheme": "Packages/Theme - Spacegray/base16-eighties.dark.tmTheme",
+  "color_scheme": "Packages/Seti_UI/Scheme/Seti.tmTheme",
   "css_files":
   [
     ".css",
@@ -9,6 +10,7 @@
     ".less"
   ],
   "detect_indentation": false,
+  "fade_fold_buttons": false,
   "file_exclude_patterns":
   [
     "*.sassc",
@@ -39,11 +41,10 @@
   "highlight_line": true,
   "ignored_packages":
   [
-    "ConvertToUTF8",
     "Hayaku - tools for writing CSS faster",
-    "CSScomb",
+    "Vintage",
     "Goto-CSS-Declaration",
-    "Vintage"
+    "CSScomb"
   ],
   "line_padding_bottom": 2,
   "line_padding_top": 2,
@@ -51,9 +52,7 @@
   "scroll_past_end": true,
   "show_tab_close_buttons": true,
   "tab_size": 2,
-  "theme": "Spacegray Eighties.sublime-theme",
+  "theme": "Seti.sublime-theme",
   "translate_tabs_to_spaces": true,
-  "bold_folder_labels": true,
-  "fade_fold_buttons": false,
   "word_wrap": false
 }
