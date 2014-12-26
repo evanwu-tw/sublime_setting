@@ -54,5 +54,5 @@
   "tab_size": 2,
   "theme": "Seti.sublime-theme",
   "translate_tabs_to_spaces": true,
-  "word_wrap": false
+  "word_wrap": false,
 }
