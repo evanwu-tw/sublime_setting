@@ -1,58 +1,58 @@
 {
-  "bold_folder_labels": true,
-  "caret_style": "phase",
-  "color_scheme": "Packages/Seti_UI/Scheme/Seti.tmTheme",
-  "css_files":
-  [
-    ".css",
-    ".scss",
-    ".sass",
-    ".less"
-  ],
-  "detect_indentation": false,
-  "fade_fold_buttons": false,
-  "file_exclude_patterns":
-  [
-    "*.sassc",
-    "*.scssc",
-    "*.log",
-    "*.gem",
-    "*.gz",
-    "*.pdf",
-    "*.zip",
-    "*.DS_store",
-    "*.eot",
-    "*.ttf",
-    "*.woff",
-    "*.xap"
-  ],
-  "font_face": "Source Code Pro Light",
-  "font_options":
-  [
-    "subpixel_antialias"
-  ],
-  "font_size": 15.0,
-  "hayaku_CSS_syntax_autoguess":
-  [
-    "selector {",
-    "  property: value;",
-    "}"
-  ],
-  "highlight_line": true,
-  "ignored_packages":
-  [
-    "Hayaku - tools for writing CSS faster",
-    "Vintage",
-    "Goto-CSS-Declaration",
-    "CSScomb"
-  ],
-  "line_padding_bottom": 2,
-  "line_padding_top": 2,
-  "remember_open_files": true,
-  "scroll_past_end": true,
-  "show_tab_close_buttons": true,
-  "tab_size": 2,
-  "theme": "Seti.sublime-theme",
-  "translate_tabs_to_spaces": true,
-  "word_wrap": false,
+	"bold_folder_labels": true,
+	"caret_style": "phase",
+	"color_scheme": "Packages/Material Theme/schemes/Material-Theme-Darker.tmTheme",
+	"css_files":
+	[
+		".css",
+		".scss",
+		".sass",
+		".less"
+	],
+	"detect_indentation": false,
+	"fade_fold_buttons": false,
+	"file_exclude_patterns":
+	[
+		"*.sassc",
+		"*.scssc",
+		"*.log",
+		"*.gem",
+		"*.gz",
+		"*.pdf",
+		"*.zip",
+		"*.DS_store",
+		"*.eot",
+		"*.ttf",
+		"*.woff",
+		"*.xap"
+	],
+	"font_face": "InputMonoCondensed-Thin",
+	"font_options":
+	[
+		"subpixel_antialias"
+	],
+	"font_size": 15.0,
+	"hayaku_CSS_syntax_autoguess":
+	[
+		"selector {",
+		"  property: value;",
+		"}"
+	],
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Goto-CSS-Declaration",
+		"Hayaku - tools for writing CSS faster",
+		"View In Browser",
+		"Vintage"
+	],
+	"line_padding_bottom": 2,
+	"line_padding_top": 2,
+	"remember_open_files": true,
+	"scroll_past_end": true,
+	"show_tab_close_buttons": true,
+	"tab_size": 2,
+	"theme": "Material-Theme-Darker.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"word_wrap": false
 }
