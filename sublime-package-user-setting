@@ -1,0 +1,38 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"1337 Color Scheme",
+		"All Autocomplete",
+		"AutoFileName",
+		"BracketHighlighter",
+		"ChineseLoremIpsum",
+		"Color Highlighter",
+		"Compass",
+		"ConvertToUTF8",
+		"Emmet",
+		"Goto-CSS-Declaration",
+		"Haml",
+		"Hayaku - tools for writing CSS faster",
+		"HTML Boilerplate",
+		"HTML-CSS-JS Prettify",
+		"HTML5",
+		"Jade",
+		"jQuery",
+		"LESS",
+		"Material Theme",
+		"Package Control",
+		"Razor",
+		"SassBeautify",
+		"SCSS",
+		"SCSS Snippets",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-contrib-eslint",
+		"TypeScript",
+		"View In Browser"
+	]
+}
