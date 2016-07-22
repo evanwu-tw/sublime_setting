@@ -25,6 +25,7 @@
 		"LESS",
 		"Material Theme",
 		"Package Control",
+		"Pug",
 		"Razor",
 		"SassBeautify",
 		"SCSS",
@@ -32,6 +33,7 @@
 		"SideBarEnhancements",
 		"SublimeLinter",
 		"SublimeLinter-contrib-eslint",
+		"SublimeLinter-contrib-sass-lint",
 		"TypeScript",
 		"View In Browser"
 	]
