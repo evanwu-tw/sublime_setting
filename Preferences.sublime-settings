@@ -1,7 +1,7 @@
 {
 	"bold_folder_labels": true,
 	"caret_style": "phase",
-	"color_scheme": "Packages/Material Theme/schemes/Material-Theme-Darker.tmTheme",
+	"color_scheme": "Packages/ayu/ayu-mirage.tmTheme",
 	"css_files":
 	[
 		".css",
@@ -31,7 +31,7 @@
 	[
 		"subpixel_antialias"
 	],
-	"font_size": 15.0,
+	"font_size": 16.0,
 	"hayaku_CSS_syntax_autoguess":
 	[
 		"selector {",
@@ -52,7 +52,7 @@
 	"scroll_past_end": true,
 	"show_tab_close_buttons": true,
 	"tab_size": 2,
-	"theme": "Material-Theme-Darker.sublime-theme",
+	"theme": "ayu-mirage.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"word_wrap": false
 }
